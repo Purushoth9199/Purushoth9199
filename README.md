@@ -5,7 +5,7 @@ MERN STACK DEVELOPER
 --------------------
 
 * 🌍  I'm based in Neyveli , Cuddalore (Dt.) , Tamil Nadu , INDIA
-* 🧠  I'm learning MERN STACK COURSE
+* 🧠  I completed Mern stack
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
